@@ -1,0 +1,15 @@
+#blueBar {
+    background: #000 !important;
+}
+
+div#listsNav,
+div#appsNav,
+div#interestsNav,
+div#pagelet_composer,
+div#rightCol {
+    display: none !important;
+}
+
+div#contentArea {
+    width: 100% !important;
+}

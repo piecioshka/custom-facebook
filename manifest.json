@@ -1,0 +1,16 @@
+{
+    "name": "Facebook - hide right column",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "icons": {
+        "32": "icons/32x32.png",
+        "48": "icons/48x48.png",
+        "128": "icons/128x128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.facebook.com/*"],
+            "css": ["styles/default.css"]
+        }
+    ]
+}
