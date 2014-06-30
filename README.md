@@ -10,7 +10,7 @@ Use `content scripts`. Hide / change parts of site:
  * hide
    * left list of `FRIENDS`
    * left list of `INTERESTS`
-   * left list of `APPS
+   * left list of `APPS`
    * input to create new post
    * right column with adverts
  * change width of content area
