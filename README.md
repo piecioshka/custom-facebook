@@ -1,4 +1,4 @@
-# ![Image](https://raw.githubusercontent.com/piecioshka/facebook-hide-right-column/master/icons/32x32.png) Facebook - hide right column
+# ![Image](https://raw.githubusercontent.com/piecioshka/facebook-hide-right-column/master/icons/32x32.png) Custom Facebook
 
 If you doesn't have see right column (sidebar) on your wall in **Facebook** use this extension for Google Chrome.
 
