@@ -1,4 +1,4 @@
-# ![Image](https://raw.githubusercontent.com/piecioshka/custom-facebook/master/icons/32x32.png) Custom Facebook
+# ![Image](https://raw.githubusercontent.com/piecioshka/custom-facebook/master/images/thumbs/32x32.png) Custom Facebook
 
 If you doesn't have see right column (sidebar) on your wall in **Facebook** use this extension for Google Chrome.
 
