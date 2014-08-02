@@ -2,10 +2,6 @@
     background: #000 !important;
 }
 
-#blueBarNAXAnchor > div {
-    width: 90% !important;
-}
-
 #listsNav,
 #appsNav,
 #interestsNav,
@@ -16,12 +12,4 @@
 
 #contentArea {
     width: 100% !important;
-}
-
-#globalContainer {
-    width: 1315px !important;
-}
-
-#searchBarClickRef {
-    max-width: 1300px !important;
 }
