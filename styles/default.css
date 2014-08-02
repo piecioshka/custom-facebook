@@ -1,15 +1,27 @@
-#blueBar {
+#blueBarNAXAnchor {
     background: #000 !important;
 }
 
-div#listsNav,
-div#appsNav,
-div#interestsNav,
-div#pagelet_composer,
-div#rightCol {
+#blueBarNAXAnchor > div {
+    width: 90% !important;
+}
+
+#listsNav,
+#appsNav,
+#interestsNav,
+#pagelet_composer,
+#rightCol {
     display: none !important;
 }
 
-div#contentArea {
+#contentArea {
     width: 100% !important;
+}
+
+#globalContainer {
+    width: 1315px !important;
+}
+
+#searchBarClickRef {
+    max-width: 1300px !important;
 }
