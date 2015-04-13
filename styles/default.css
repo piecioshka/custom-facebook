@@ -1,15 +1,3 @@
 #blueBarNAXAnchor {
     background: #000 !important;
 }
-
-#listsNav,
-#appsNav,
-#interestsNav,
-#pagelet_composer,
-#rightCol {
-    display: none !important;
-}
-
-#contentArea {
-    width: 100% !important;
-}

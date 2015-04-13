@@ -7,13 +7,6 @@ If you doesn't have see right column (sidebar) on your wall in **Facebook** use 
 Use `content scripts`. Hide / change parts of site:
 
  * change color blue to black on head bar
- * hide
-   * left list of `FRIENDS`
-   * left list of `INTERESTS`
-   * left list of `APPS`
-   * input to create new post
-   * right column with adverts
- * change width of content area
 
 # License
 
