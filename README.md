@@ -10,6 +10,4 @@ Use `content scripts`. Hide / change parts of site:
 
 # License
 
-[The MIT License][0]
-
-[0]: http://piecioshka.mit-license.org/
+[The MIT License](http://piecioshka.mit-license.org/)

@@ -1,3 +1,4 @@
-#blueBarNAXAnchor {
+#blueBarDOMInspector div:first-child,
+#blueBarDOMInspector div:first-child:after {
     background: #000 !important;
 }
