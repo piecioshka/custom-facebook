@@ -13,4 +13,4 @@ If you doesn't have see right column (sidebar) on your wall in **Facebook** use 
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org/) @ 2014
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
